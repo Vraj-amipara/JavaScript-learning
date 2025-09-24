@@ -1,4 +1,4 @@
-for (i = 0; i < 5; i++) {
+    for (i = 0; i < 5; i++) {
     console.log("javaScript");
 }
 
@@ -209,4 +209,3 @@ for(let key of near_name ){
 }
 
 console.log ("near_namelanth = " ,near_name_size);
-
