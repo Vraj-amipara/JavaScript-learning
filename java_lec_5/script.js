@@ -67,4 +67,30 @@ const myVowels = (str) => {
     }
   }
   console.log(count);
-}
+};
+
+// foreach
+let array = ["dali", "bali", "ind"];
+
+array.forEach((element) => {
+  console.log(element);
+});
+
+let array_2 = ["dali", "bali", "ind"];
+
+array.forEach((idx, val, arr) => {
+  console.log(idx, val, arr);
+});
+
+// array.forEach(function printVal(el){
+//     console.log (printVal);
+// })
+
+// Qs. For a given array of numbers, print the square of each value using the forEach loop.
+
+let num = [1, 2, 3, 5, 4];
+num.forEach((num)=>{
+    console.log(num*num)
+})
+
+
