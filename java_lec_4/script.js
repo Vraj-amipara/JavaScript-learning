@@ -87,7 +87,7 @@ console.log(cars);
 
 console.log(cars.slice(1, 3)); //extract a section of an array and return a new array
 
-let num = [0, "apple",12, -4 + 12 * 8 / 3 ,(15,25,60), 1, "banana", "banana",44,"grapes",85,14,3, "grapes",7,6,1,9, "mango"];
+let num = [0, "apple",12, -4 + 12 * 8 / 3 ,let=["15,25,60"], 1, "banana", "banana",44,"grapes",85,14,3, "grapes",7,6,1,9, "mango"];
 num.splice("kiwi",11,4,"apple","banana",12);
 
 // let num_89 = ["kiwi",0, "apple",28 ,(15,25,60), 1, "banana", "banana",44,"grapes","apple","banana",12,6,1,9, "mango"];
