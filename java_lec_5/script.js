@@ -94,26 +94,7 @@ num.forEach((num)=>{
 })
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 // num.forEach((num) => {
 //   console.log(num * num); //num**2
 // });
+    
