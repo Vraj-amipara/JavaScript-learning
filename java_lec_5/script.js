@@ -70,7 +70,7 @@ const myVowels = (str) => {
 };
 
 // foreach
-let array = ["dali", "bali", "ind"];
+let array = ["hello", "hi", "greetings", "salutations", "namaste", "bonjour"];
 
 array.forEach((element) => {
   console.log(element);
