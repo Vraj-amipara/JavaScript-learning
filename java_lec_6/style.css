@@ -4,3 +4,15 @@
     box-sizing: border-box;
 }
 
+
+.hidden_p{
+    visibility: hidden;
+}
+
+.box{
+    width: 100px;
+    height: 100px;
+    background-color: tomato;
+    color: white;
+    margin: 20px;
+}
