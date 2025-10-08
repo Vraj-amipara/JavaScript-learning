@@ -3,3 +3,9 @@
     height:100px;
     background-color: lightblue;
 }
+
+.new_box{
+    width: 200px;
+    height:200px;
+    background-color: lightgreen;
+}
