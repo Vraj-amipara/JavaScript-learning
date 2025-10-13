@@ -13,7 +13,7 @@
 //EXAMPLE OF MOUSE EVENTS
 
 let btn = document.getElementById("click");
-
+   
 click.onclick = () =>{
     console.log("i am click by function");
     let a = 15;
@@ -32,7 +32,6 @@ Events_btn.onclick = (e) =>{
     console.log(e.clientX);
     console.log(e.clientY); 
 }
-    
 
 // event listener in javascript 
 
