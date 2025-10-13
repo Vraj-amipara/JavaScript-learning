@@ -41,3 +41,4 @@ Events_listener_btn.addEventListener ("click", () =>{
     let b = 6;
     console.log("the sum of a and b is " + (a+b));
 })
+
